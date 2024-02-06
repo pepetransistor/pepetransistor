@@ -1,5 +1,5 @@
-# H1 Hi, I'm Juan Pablo.
-# H2 I'm a translator working in Tech and Technical Writer in the making.
+## Hi, I'm Juan Pablo.
+### I'm a translator working in Tech and Technical Writer in the making.
 
 I'm looking for open source projects that need help with their documentation in English or Spanish
 
